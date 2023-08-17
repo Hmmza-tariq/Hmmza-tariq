@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Flutter developer from Pakistan</h3>
 
 # 💫 About Me:
-I'm a skilled software developer with expertise in Flutter, Blender, and Unity. <br>I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity.<br> I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further.<br>Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
+I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
 
 
 ## 🌐 Socials:
