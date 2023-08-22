@@ -4,7 +4,6 @@
 # 💫 About Me:
 I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
 
-
 ## 🌐 Socials:
 <p align="center">
 <a href="https://linkedin.com/in/hamza-tariq--software-developer-expert" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
