@@ -22,9 +22,9 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 
 
 # 📊 GitHub Stats:
-<p align="center">
+<!--<p align="center">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=Hmmza-Tariq&theme=radical&hide_border=false">
-</p>
+</p>-->
 <p align="center">
 <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hmmza-Tariq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
 </p>
