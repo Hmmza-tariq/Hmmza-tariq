@@ -1,5 +1,4 @@
 <img src="images/header.svg"></img>
-<!--<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=I+am+a+Flutter+Developer;I+am+a+3D+Developer;I+am+a+Game+Developer" alt="Typing SVG" /></a></h3>-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com//Hmmza-tariq//Hmmza-tariq/output/github-contribution-grid-snake-dark.svg">
