@@ -43,7 +43,6 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-<hr>
 
  
 <!--##
