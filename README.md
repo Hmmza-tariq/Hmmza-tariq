@@ -43,8 +43,6 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
-
 <!-- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmza-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="hmmza-tariq" /> </p>
@@ -58,6 +56,8 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 
 Made with [OSS Insight](https://ossinsight.io/) -->
 <!--##
-<p  align="center"> <a href="https://www.buymeacoffee.com/hmmzatariq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmmzatariq" /></a></p><br><br> -->
+<p  align="center"> <a href="https://www.buymeacoffee.com/hmmzatariq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmmzatariq" /></a></p><br><br> 
 
-<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%">
+<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%"> 
+
+-->
