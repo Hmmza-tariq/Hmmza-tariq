@@ -8,8 +8,9 @@
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
 
-<h2 align="center">🌏 Socials 🌏</h2>
+<h2 align="center">🌏 Connect with Me 🌏</h2>
 <p align="center">
+<a href="mailto:HamzaTariqWork@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hamza-tariq--software-developer-expert" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/hmmza_tariq" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="hmmza_tariq" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamzatariq45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamzatariq45" height="30" width="40" /></a>
