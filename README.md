@@ -45,7 +45,7 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 
 <h2 align="center">📄 Download CV 📄</h2>
 <p align="center">
-  <a href="LINK_TO_YOUR_CV_FILE" download>
+  <a href="files/Hamza_Tariq_Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download-CV-blue.svg" />
   </a>
 </p>
