@@ -5,6 +5,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com//Hmmza-tariq//Hmmza-tariq/output/github-contribution-grid-snake.svg">
 </picture>
 
+## <picture><img src = "./assets/images/about_me.gif" width = 50px></picture> **About me**
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!
 
