@@ -43,6 +43,14 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<h2 align="center">📄 Download CV 📄</h2>
+<p align="center">
+  <a href="LINK_TO_YOUR_CV_FILE" download>
+    <img src="https://img.shields.io/badge/Download-CV-blue.svg" />
+  </a>
+</p>
+
+
 <!-- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmza-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="hmmza-tariq" /> </p>
