@@ -51,9 +51,11 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 
 <img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg" width="100%"> 
 
+
 <!-- 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmza-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="hmmza-tariq" /> </p>
+
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=111647708" target="_blank" style="display: block" align="center">
   <picture>
