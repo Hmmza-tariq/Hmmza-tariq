@@ -14,7 +14,6 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 <a href="https://linkedin.com/in/hamza-tariq--software-developer-expert" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/hmmza_tariq" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="hmmza_tariq" height="30" width="40" /></a>
 <a href="https://www.behance.net/hamzatariq45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="hamzatariq45" height="30" width="40" /></a>
-<!-- <a href="https://discord.gg/hmmza_tariq" target="blank"><img align="center" src="https://skillicons.dev/icons?i=discord" alt="hmmza_tariq" height="30" width="40" /></a> -->
   <a href="https://sketchfab.com/Hamza_Tariq/" target="blank"><img align="center" src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.svg" alt="hmmza_tariq" height="30" width="40" /></a>
 </p>
 
