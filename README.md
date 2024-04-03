@@ -25,7 +25,7 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 <p align=center>
   <div align=center>
     <a href="https://github.com/hmmza-tariq/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hmmza-tariq&theme=react&border=61dafb&hide_border=false" alt="hmmza-tariq" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=hmmza-tariq&theme=react&border=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=hmmza-tariq&show_icons=true&theme=react&border_color=61dafb&hide_border=false" />
