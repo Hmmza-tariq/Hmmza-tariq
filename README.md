@@ -1,4 +1,3 @@
-
 <img src="images/header.svg"></img>
 
 <picture>
@@ -39,7 +38,7 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
     </a>
   </div>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&bg_color=20232a&hide_border=false" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&bg_color=20232a&border_color=61dafb&hide_border=false" width="100%"/>
 </p>
 
 <h2 align="center">📄 Download CV 📄</h2>
