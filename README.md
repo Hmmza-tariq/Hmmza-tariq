@@ -30,16 +30,17 @@
 ## <h2 align="center"><picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture> **Stats** <picture><img src = "https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = 50px></picture></h2>
 
 <p align="center">
-  <a href="https://github.com/hmmza-tariq/github-readme-streak-stats" title="Go to Source">
-    <img width="390" src="https://streak-stats.demolab.com/?user=hmmza-tariq&show_icons=true&theme=react&bg_color=0E1117&border_color=61dafb&hide_border=true">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmza-tariq&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0E1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
   </a>
+  <a align="center" width="50"></a>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
     <img width="390" src="https://github-readme-stats.vercel.app/api?username=hmmza-tariq&show_icons=true&theme=react&bg_color=0E1117&border_color=61dafb&hide_border=true">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmza-tariq&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=0E1117&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5">
+   <a href="https://github.com/hmmza-tariq/github-readme-streak-stats" title="Go to Source">
+    <img width="390" src="https://streak-stats.demolab.com/?user=hmmza-tariq&show_icons=true&theme=react&bg_color=0E1117&border_color=61dafb&hide_border=true">
   </a>
 </p>
 <p align="center">
