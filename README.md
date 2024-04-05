@@ -36,8 +36,7 @@
   </a>
 </p>
 
-## <h2 align="center"><picture><img src = "./images/about_me.gif" width = 50px></picture>  About me  <picture><img src = "./images/about_me.gif" width = 50px></picture></h2>
-<p align="center">I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!</p>
+
 ## <h2 align="center"><picture><img src = "./images/handshake.gif" width = 50px></picture> Let's Connect <picture><img src = "./images/handshake.gif" width = 50px></picture></h2>
 <p align="center">
   <a href="mailto:HamzaTariqWork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40"></a>
@@ -60,5 +59,6 @@
 </a>
 Made with [OSS Insight](https://ossinsight.io/)
 ##
-<p  align="center"> <a href="https://www.buymeacoffee.com/hmmzatariq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmmzatariq" /></a></p><br><br> 
+<p  align="center"> <a href="https://www.buymeacoffee.com/hmmzatariq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmmzatariq" /></a></p><br><## <h2 align="center"><picture><img src = "./images/about_me.gif" width = 50px></picture>  About me  <picture><img src = "./images/about_me.gif" width = 50px></picture></h2>
+<p align="center">I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I have experience in building cross-platform mobile applications, creating 3D models and animations using Blender, and developing games with Unity. I'm a quick learner and always eager to explore new technologies and tools to enhance my skillset further. Let's collaborate to bring your ideas to life and create innovative and user-friendly solutions for real-world problems!</p> 
 -->
