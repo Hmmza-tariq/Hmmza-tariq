@@ -40,7 +40,7 @@
 </p>
 <p align="center">
    <a href="https://github.com/hmmza-tariq/github-readme-streak-stats" title="Go to Source">
-    <img width="390" src="https://streak-stats.demolab.com/?user=hmmza-tariq&show_icons=true&theme=react&bg_color=0E1117&border_color=61dafb&hide_border=true">
+    <img width="390" src="https://streak-stats.demolab.com/?user=hmmza-tariq&show_icons=true&theme=react&bg_color=0E1117&border_color=0E1117&hide_border=true">
   </a>
 </p>
 <p align="center">
