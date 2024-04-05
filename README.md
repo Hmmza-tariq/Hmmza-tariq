@@ -52,22 +52,16 @@
     <img src="https://img.shields.io/badge/Download-CV-blue.svg">
   </a>
 </p>
-
-<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg">
-
 <!-- 
+<img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmmza-tariq&label=Profile%20views&color=0e75b6&style=flat" alt="hmmza-tariq" /> </p>
-
-
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=111647708" target="_blank" style="display: block" align="center">
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111647708&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @Hmmza-tariq" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=111647708&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-Made with [OSS Insight](https://ossinsight.io/) -->
-<!--##
+Made with [OSS Insight](https://ossinsight.io/)
+##
 <p  align="center"> <a href="https://www.buymeacoffee.com/hmmzatariq"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hmmzatariq" /></a></p><br><br> 
 -->
