@@ -28,4 +28,4 @@ jobs:
         run: pip install beautifulsoup4 requests
 
       - name: Run script to update README.md
-        run: python update_apps.py
+        run: python files/update_apps.py
