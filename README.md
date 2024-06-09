@@ -41,10 +41,10 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px"></h2>
 
 <p align="center">
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmza-tariq&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hmmza-tariq&show_icons=true&theme=react&bg_color=00000000&border_color=61dafb&hide_border=true">
-  <img width="390" src="https://streak-stats.demolab.com/?user=hmmza-tariq&theme=react&bg_color=00000000&border_color=0E1117&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&border_color=61dafb&hide_border=true" width="100%">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmza-tariq&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=hmmza-tariq&show_icons=true&theme=react&bg_color=00000000&border_color=61dafb&hide_border=true">
+  <img width="40%" src="https://streak-stats.demolab.com/?user=hmmza-tariq&theme=react&bg_color=00000000&border_color=0E1117&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&border_color=61dafb&hide_border=true" width="40%">
 </p>
 
 
