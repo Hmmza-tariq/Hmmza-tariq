@@ -17,7 +17,7 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 
 <p align="center">
   <a href="mailto:HamzaTariqWork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40"></a>
-  <a href="https://linkedin.com/in/hamza-tariq--software-developer-expert" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40"></a>
+  <a href="https://www.linkedin.com/in/hamza-tariq--flutter-developer-expert/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40"></a>
   <a href="https://instagram.com/hmmza_tariq" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40"></a>
   <a href="https://www.behance.net/hamzatariq45" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"></a>
   <a href="https://sketchfab.com/Hamza_Tariq/" target="_blank"><img src="https://static.sketchfab.com/img/press/logos/sketchfab-logo.svg" height="30" width="40"></a>
@@ -40,9 +40,13 @@ I'm a skilled software developer with expertise in Flutter, Blender, and Unity. 
 <h2 align="center">📄 Download CV 📄</h2>
 <p align="center">
   <a href="files/Hamza_Tariq_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download-CV-blue.svg">
+    <img src="https://img.shields.io/badge/Download_CV-2CA5E0?style=for-the-badge&logo=adobepdf&logoColor=white" alt="Download CV">
+  </a>
+  <a href="https://github.com/Hmmza-tariq/Flutter-Projects">
+    <img src="https://img.shields.io/badge/View_Project-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
   </a>
 </p>
+
 
 <!--
 <img src="https://raw.githubusercontent.com/xShamir/xShamir/master/footer.svg">
