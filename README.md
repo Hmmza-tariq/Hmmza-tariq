@@ -14,7 +14,7 @@
       <p align="center">I'm a skilled software developer with expertise in Flutter, Blender, and Unity. I specialize in building cross-platform mobile applications, creating 3D models and animations with Blender, and developing immersive games using Unity. I'm committed to learning new technologies and tools to further enhance my skillset. Let's collaborate to bring your creative ideas to life and develop innovative, user-friendly solutions for real-world challenges!</p>
     </td>
     <td>
-        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejBwZTFtOXNiMjNueHVubXRvdnl5bW5tZmM5MHY3eXJlNGs1czY3dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding Animation" width="100%">
+        <img src="images/Right_Side.gif" alt="Coding Animation" width="100%">
     </td>
   </tr>
   <tr>
