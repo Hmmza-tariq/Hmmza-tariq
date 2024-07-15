@@ -29,6 +29,7 @@
       <h2 align="center"> Let's Connect</h2>
       <p align="center">
         <a href="mailto:HamzaTariqWork@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40"></a>
+        <a href="https://www.fiverr.com/hmmza_tariq"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/129_Fiverr_logo_logos-256.png" alt="Fiverr" height="30" width="40"></a>
         <a href="https://linkedin.com/in/hamza-tariq--software-developer-expert" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40"></a>
         <a href="https://instagram.com/hmmza_tariq" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40"></a>
         <a href="https://www.behance.net/hamzatariq45" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40"></a>
