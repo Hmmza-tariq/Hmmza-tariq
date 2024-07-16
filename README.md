@@ -5,7 +5,7 @@
 <picture> <img align="right" src="images/Right_Side.gif" width = 250px></picture>
 
 - 🔵 I'm a software developer with expertise in Flutter and Blender.
-- 🔵 I specialize in building cross-platform mobile applications, creating 3D models and animations with Blender.
+- 🔵 I specialize in building cross-platform mobile applications.
 - 🔵 I’m looking to collaborate on your open source projects
 - 🔵 I'm committed to learning new technologies and tools to further enhance my skillset.
 - 🔵 Let's collaborate to bring your creative ideas to life and develop innovative, user-friendly solutions for real-world challenges!
