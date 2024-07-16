@@ -47,8 +47,8 @@
 ## Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmza-tariq&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hmmza-tariq&show_icons=true&theme=react&bg_color=00000000&border_color=61dafb&hide_border=true">
+<!--   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmmza-tariq&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=00000000&langs_count=8&layout=compact&border_color=61dafb&hide_border=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=hmmza-tariq&show_icons=true&theme=react&bg_color=00000000&border_color=61dafb&hide_border=true"> -->
   <img width="45%" src="https://streak-stats.demolab.com/?user=hmmza-tariq&theme=react&bg_color=00000000&border_color=0E1117&hide_border=true">
   <img width="45%" src="https://github-readme-activity-graph.vercel.app/graph?username=hmmza-tariq&theme=react-dark&border_color=61dafb&hide_border=true">
 </p>
