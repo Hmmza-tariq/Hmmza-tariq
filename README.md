@@ -39,10 +39,6 @@
 </p>
 
 
-## Certifications
-- **NUST High Achievers Certificate**
-- **International Kangaroo Mathematics Contest** - Top Ranks (2014, 2015, 2016)
-
 <table>
   <tr>
     <td width="50%">
