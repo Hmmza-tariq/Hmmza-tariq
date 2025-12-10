@@ -32,19 +32,19 @@ rect.headerRect:hover {
 .wave {
   animation: wave 3s linear;
   animation-iteration-count:infinite;
-  fill: #61dafb;  
+  fill: #158c54;  
 }
 
 .wave:hover {
-  fill: #61dafb;
+  fill: #158c54;
 }
 
 .drop:hover {
-  fill: #61dafb;
+  fill: #158c54;
 }
 
 .drop {
-  fill: #61dafb;
+  fill: #158c54;
   xfill: #99000055;
   animation: drop 8.2s linear infinite normal;
   stroke: #4447e3;
@@ -201,7 +201,7 @@ g.typingUnderline rect {
 <text x="64" font-family="Helvetica" font-size=".12em" fill="white"
      text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
   <textPath xlink:href="#descriptionTyping" >
-      AI, Flutter &amp; 3D  Developer. 
+      AI, Mobile &amp; 3D  Developer. 
   </textPath>
 </text>
 
@@ -776,3 +776,4 @@ QjT/LnbtblTOdfjgE8JOaRwi4yz95XC+7G/cN82ekpXOuevL8yPuNH7O8IjjWU+vLvbi8N/OqIbfMsHv
 AhW/nyq7W9EjiBeDdb0m7f0og7nC4GqV4RMAcffmWHv1MNnOjT+8bviDSuZ9cONYKA1h3E38dfss5xAAZKGMLBuusqaiy+jQCJILLWksuvwftAKIC/ASIYZCLTmDLwqQsgoO84yhwEUTwI+QNAAQsGUUq4DDUChAIFSOzAvhBnFI88EgMIJAIUAFmxLgoW6PC4PUKgscj7NLtRAQYoQAEDugC5oIIIFlCQRNeMxPK+GMsj8aMABjAgEAXGDIQAAQLocqYCGMyyzfB8QMC5NOe0ObIDNt3EM7wEPpCTzjn36ODDPAe9TwgP6ujTz4/2QKCD1wiFNEQPgNgDwkYRKICOAuKM04M1BXUzIAA7"/>
 
 </svg>
+
