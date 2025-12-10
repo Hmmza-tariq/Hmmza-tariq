@@ -4,10 +4,10 @@
 
 <picture> <img align="right" src="images/Right_Side.gif" width = 250px></picture>
   <a href="files/Hamza_Tariq_Resume.pdf" download>
-    <img src="https://img.shields.io/badge/View_CV-2CA5E0?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
-  </a>
+    <img src="https://img.shields.io/badge/View_CV-2ea44f?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
+  </a> 
   <a href="https://github.com/Hmmza-tariq/Flutter-Projects">
-    <img src="https://img.shields.io/badge/View_Projects-2CA5E0?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
+    <img src="https://img.shields.io/badge/View_Projects-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="View Other Project">
   </a>
 
 🚀 **Flutter & AI Specialist:** Crafting high-performance, cross-platform mobile apps infused with intelligent AI features. Passionate about building user-centric solutions.
