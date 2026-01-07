@@ -4,7 +4,7 @@
   
   ## About Me | Mobile & AI Developer
 
-  <a href="files/Hamza_Tariq_Resume.pdf" download>
+  <a href="files/Hamza-Tariq-Resume.pdf" download>
     <img src="https://img.shields.io/badge/View_CV-158c54?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
   </a>
   <a href="https://github.com/Hmmza-tariq/Flutter-Projects">
