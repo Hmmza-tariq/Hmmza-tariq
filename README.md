@@ -21,7 +21,7 @@
 
 **Mobile & AI Specialist:** Crafting high-performance, cross-platform mobile apps infused with intelligent AI features. **16+ Production Apps** across e-commerce, fintech, healthcare, IoT, and education.
 
-**Founder of [Hexagone](https://theHexagone.com)** | **Co-Founder of [GreenEats](greeneats.pk)** 
+**Founder of [Hexagone](https://theHexagone.com)** | **Co-Founder of [GreenEats](https://greeneats.pk)** 
 **Fiverr Level 2 Seller:** 50+ Delivered Projects | **Published on Play Store & App Store**
 **Computer Engineer:** NUST
 
@@ -188,7 +188,7 @@ Real-time water flow monitoring with leak detection, automated valve control, ge
   <a href="mailto:HamzaTariqWorkMail@gmail.com">
     <img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/hamza-tariq--flutter-developer-expert" target="_blank">
+  <a href="https://linkedin.com/in/hmmza-tariq--software-engineer-expert" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.fiverr.com/hmmza_tariq" target="_blank">
@@ -200,7 +200,7 @@ Real-time water flow monitoring with leak detection, automated valve control, ge
 </p>
 
 <p>
-  <a href="https://instagram.com/hmmza_tariq" target="_blank">
+  <a href="https://instagram.com/dopetraits" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-158c54?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.behance.net/hamzatariq45" target="_blank">
