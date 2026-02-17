@@ -1,7 +1,8 @@
 <img src="images/header.svg" alt="Header Image" width="100%">
 
+<!--![](https://komarev.com/ghpvc/?username=hmmza-tariq&color=blueviolet&style=for-the-badge) -->
 <div align="center">
-  
+
   ## About Me | Mobile & AI Developer
 
   <a href="files/Hamza-Tariq-Resume.pdf" download>
