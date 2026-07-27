@@ -186,10 +186,10 @@ Real-time water flow monitoring with leak detection, automated valve control, ge
 ## Let's Connect & Collaborate
 
 <p>
-  <a href="mailto:HamzaTariqWorkMail@gmail.com">
+  <a href="mailto:hmmza.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://linkedin.com/in/hmmza-tariq--software-engineer-expert" target="_blank">
+  <a href="https://linkedin.com/in/hmmza-tariq-engineer" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.fiverr.com/hmmza_tariq" target="_blank">
