@@ -1,216 +1,69 @@
-<img src="images/header.svg" alt="Header Image" width="100%">
+<img src="images/header.svg" alt="Hamza Tariq" width="100%">
 
 <div align="center">
-  
-  ## About Me | Mobile & AI Developer
 
-  <a href="files/Hamza-Tariq-Resume.pdf" download>
-    <img src="https://img.shields.io/badge/View_CV-158c54?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download CV">
-  </a>
-  <a href="https://github.com/Hmmza-tariq/Flutter-Projects">
-    <img src="https://img.shields.io/badge/View_Projects-158c54?style=for-the-badge&logo=github&logoColor=white" alt="View Projects">
-  </a>
+# Hamza Tariq
+
+### Flutter / Mobile Software Engineer | BLE, IoT & AI
+
+Building production apps with hardware integration and AI features.
+Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enterprise AV.
+
+<a href="files/Hamza-Tariq-Resume.pdf"><img src="https://img.shields.io/badge/Resume-158c54?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="https://hamza.theHexagone.com/"><img src="https://img.shields.io/badge/Portfolio-158c54?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/hamza-tariq-engineer/"><img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:Hmmza.work@gmail.com"><img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-<br>
+## About
 
 <picture>
   <img align="right" src="images/greet.gif" width="250px">
 </picture>
 
-**Mobile & AI Specialist:** Crafting high-performance, cross-platform mobile apps infused with intelligent AI features. **16+ Production Apps** across e-commerce, fintech, healthcare, IoT, and education.
+- Mobile Application Developer at **TopTech EST**
+- Contract Mobile Developer at **Evolvix** (Dubai), building enterprise smart-room control apps
+- Part-time Software Engineer at **RISETech**, working on BLE health-device and subscription apps
+- Founder of [Hexagone](https://theHexagone.com) and co-founder of [GreenEats](https://greeneats.pk)
+- Computer Engineering graduate, NUST | Fiverr Level 2 seller with 50+ projects
 
-**Founder of [Hexagone](https://theHexagone.com)** | **Co-Founder of [GreenEats](https://greeneats.pk)** 
-**Fiverr Level 2 Seller:** 50+ Delivered Projects | **Published on Play Store & App Store**
-**Computer Engineer:** NUST
-
-**Expertise:** Flutter • Dart • AI/ML Integration • IoT Systems • Firebase • Real-time Applications
 
 <br clear="right">
 
+## Tech Stack
+
+| | |
+|:--|:--|
+| **Mobile** | <img src="https://img.shields.io/badge/Flutter-158c54?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/> <img src="https://img.shields.io/badge/Dart-158c54?style=flat-square&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/Android-158c54?style=flat-square&logo=android&logoColor=white" alt="Android"/> <img src="https://img.shields.io/badge/iOS-158c54?style=flat-square&logo=apple&logoColor=white" alt="iOS"/> <img src="https://img.shields.io/badge/Kotlin-158c54?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/> <img src="https://img.shields.io/badge/Bloc-158c54?style=flat-square" alt="Bloc"/> <img src="https://img.shields.io/badge/GetX-158c54?style=flat-square" alt="GetX"/> <img src="https://img.shields.io/badge/go_router-158c54?style=flat-square" alt="go_router"/> <img src="https://img.shields.io/badge/Dio-158c54?style=flat-square" alt="Dio"/> <img src="https://img.shields.io/badge/Arabic/English_RTL-158c54?style=flat-square" alt="Arabic/English RTL"/> |
+| **IoT & Hardware** | <img src="https://img.shields.io/badge/BLE-158c54?style=flat-square&logo=bluetooth&logoColor=white" alt="BLE"/> <img src="https://img.shields.io/badge/ESP32-158c54?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/> <img src="https://img.shields.io/badge/LoRa-158c54?style=flat-square" alt="LoRa"/> <img src="https://img.shields.io/badge/Arduino-158c54?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/> <img src="https://img.shields.io/badge/MQTT-158c54?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT"/> <img src="https://img.shields.io/badge/SSH2-158c54?style=flat-square" alt="SSH2"/> <img src="https://img.shields.io/badge/Cisco_RoomOS_xAPI-158c54?style=flat-square&logo=cisco&logoColor=white" alt="Cisco RoomOS xAPI"/> <img src="https://img.shields.io/badge/QSC_Q--SYS-158c54?style=flat-square" alt="QSC Q-SYS"/> |
+| **Backend & Cloud** | <img src="https://img.shields.io/badge/Firebase-158c54?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/> <img src="https://img.shields.io/badge/Supabase-158c54?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/> <img src="https://img.shields.io/badge/PostgreSQL-158c54?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/REST_APIs-158c54?style=flat-square" alt="REST APIs"/> <img src="https://img.shields.io/badge/WebSockets-158c54?style=flat-square" alt="WebSockets"/> <img src="https://img.shields.io/badge/JWT-158c54?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT"/> |
+| **AI & ML** | <img src="https://img.shields.io/badge/TensorFlow_Lite-158c54?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow Lite"/> <img src="https://img.shields.io/badge/ML_Kit-158c54?style=flat-square&logo=google&logoColor=white" alt="ML Kit"/> <img src="https://img.shields.io/badge/OCR-158c54?style=flat-square" alt="OCR"/> <img src="https://img.shields.io/badge/Whisper-158c54?style=flat-square&logo=openai&logoColor=white" alt="Whisper"/> <img src="https://img.shields.io/badge/BERT-158c54?style=flat-square" alt="BERT"/> <img src="https://img.shields.io/badge/LLM_APIs-158c54?style=flat-square" alt="LLM APIs"/> <img src="https://img.shields.io/badge/Claude_Code-158c54?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/> <img src="https://img.shields.io/badge/MCP-158c54?style=flat-square" alt="MCP"/> |
+| **Payments** | <img src="https://img.shields.io/badge/Stripe-158c54?style=flat-square&logo=stripe&logoColor=white" alt="Stripe"/> <img src="https://img.shields.io/badge/RevenueCat-158c54?style=flat-square&logo=revenuecat&logoColor=white" alt="RevenueCat"/> <img src="https://img.shields.io/badge/In--App_Purchases-158c54?style=flat-square" alt="In-App Purchases"/> <img src="https://img.shields.io/badge/PayPro-158c54?style=flat-square" alt="PayPro"/> <img src="https://img.shields.io/badge/Moyasar-158c54?style=flat-square" alt="Moyasar"/> |
+| **Testing & DevOps** | <img src="https://img.shields.io/badge/GitHub_Actions-158c54?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/fastlane-158c54?style=flat-square&logo=fastlane&logoColor=white" alt="fastlane"/> <img src="https://img.shields.io/badge/Xcode_Cloud-158c54?style=flat-square&logo=xcode&logoColor=white" alt="Xcode Cloud"/> <img src="https://img.shields.io/badge/Patrol-158c54?style=flat-square" alt="Patrol"/> <img src="https://img.shields.io/badge/Git-158c54?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Jira-158c54?style=flat-square&logo=jira&logoColor=white" alt="Jira"/> <img src="https://img.shields.io/badge/Postman-158c54?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> |
+| **Languages** | <img src="https://img.shields.io/badge/Dart-158c54?style=flat-square&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/Python-158c54?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-158c54?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-158c54?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-158c54?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-158c54?style=flat-square" alt="SQL"/> |
+
+## Selected Work
+
+| Project | What it is |
+|:--|:--|
+| [**GreenEats**](https://greeneats.pk) | Homemade food delivery platform I co-founded. Live on [Google Play](https://play.google.com/store/apps/details?id=com.hexagone.green_eats) and the [App Store](https://apps.apple.com/us/app/greeneats-homemade-meals/id6478523748). |
+| [**My NUST**](https://play.google.com/store/apps/details?id=com.hexagone.mynust) | Open-source student app with 10,000+ Google Play downloads. |
+| [**Celiach-IA**](https://apps.apple.com/us/app/celiachia/id6747974481) | AI gluten detection with barcode scanning, OCR, and offline-first storage. |
+| **Room-OS** | iPad controller for 10 Cisco RoomOS meeting rooms across 3 floors, over Cisco xAPI, SSH2, and QSC Q-SYS. |
+| **Water Flow Monitor** | ESP32 + LoRa leak detection with geofencing alerts and automated valve control. |
+
+More projects: [github.com/Hmmza-tariq/Projects](https://github.com/Hmmza-tariq/Projects)
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hmmza-tariq/Hmmza-tariq/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hmmza-tariq/Hmmza-tariq/output/github-contribution-grid-snake.svg">
-  </picture>
-<!-- </div>
 
-## 🎯 Industry Experience
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/E--Commerce-158c54?style=for-the-badge&logoColor=white" alt="E-Commerce"/>
-<img src="https://img.shields.io/badge/FinTech-158c54?style=for-the-badge&logoColor=white" alt="FinTech"/>
-<img src="https://img.shields.io/badge/Healthcare-158c54?style=for-the-badge&logoColor=white" alt="Healthcare"/>
-<img src="https://img.shields.io/badge/IoT_Systems-158c54?style=for-the-badge&logoColor=white" alt="IoT"/>
-<img src="https://img.shields.io/badge/AI/ML-158c54?style=for-the-badge&logoColor=white" alt="AI/ML"/>
-<img src="https://img.shields.io/badge/Education-158c54?style=for-the-badge&logoColor=white" alt="Education"/>
-<img src="https://img.shields.io/badge/Travel-158c54?style=for-the-badge&logoColor=white" alt="Travel"/>
-<img src="https://img.shields.io/badge/Hospitality-158c54?style=for-the-badge&logoColor=white" alt="Hospitality"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hmmza-tariq/Hmmza-tariq/output/github-contribution-grid-snake-dark.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hmmza-tariq/Hmmza-tariq/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-## ⭐ Featured Projects
+## Elsewhere
 
-<table>
-<tr>
-<td width="50%">
-
-### 🥗 GreenEats – Homemade Food Delivery
-**My Startup** | `Flutter` `Firebase` `GetX` `PayPro`
-
-Comprehensive meal planning and subscription platform with 3M+ meals delivered. Features custom meal plans, digital wallet, real-time tracking, and organization support.
-
-<a href="https://play.google.com/store/apps/details?id=com.hexagone.green_eats"><img src="https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white"></a>
-<a href="https://apps.apple.com/us/app/greeneats-homemade-meals/id6478523748"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white"></a>
-<a href="https://greeneats.pk"><img src="https://img.shields.io/badge/Website-158c54?style=flat-square&logo=safari&logoColor=white"></a>
-
-</td>
-<td width="50%">
-
-### 🔍 Celiach-IA – AI Gluten Detection
-**Client Project** | `Flutter` `ML Kit` `SQLCipher` `Stripe`
-
-Intelligent health app with 3M+ product database, barcode scanning, OCR-powered ingredient analysis, and offline-first architecture for celiac disease management.
-
-<a href="https://github.com/Hmmza-tariq/Flutter-Projects#-celiach-ia--gluten-detection-app"><img src="https://img.shields.io/badge/Details-158c54?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎛️ Room-OS – Enterprise Meeting Control
-**Client Project** | `Flutter` `Cisco RoomOS` `SSH` `QSC`
-
-Professional iPad app for controlling Cisco RoomOS devices across multiple floors. Manages calls, screen sharing, and integrated AV systems via xAPI.
-
-<a href="https://github.com/Hmmza-tariq/Flutter-Projects#️-room-os--meeting-room-controller"><img src="https://img.shields.io/badge/Details-158c54?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-<td width="50%">
-
-### 💧 Water Flow – IoT Monitoring
-**Client Project** | `Flutter` `ESP32` `LoRa` `Firebase RTDB`
-
-Real-time water flow monitoring with leak detection, automated valve control, geofencing alerts, and 24/7 background monitoring via LoRa sensor network.
-
-<a href="https://github.com/Hmmza-tariq/Flutter-Projects#-water-flow--iot-water-monitoring"><img src="https://img.shields.io/badge/Details-158c54?style=flat-square&logo=github&logoColor=white"></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/Hmmza-tariq/Flutter-Projects">
-  <img src="https://img.shields.io/badge/View_All_16+_Projects-158c54?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-</a>
-
-</div>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hmmza-tariq&show_icons=true&theme=dark&title_color=158c54&icon_color=158c54&text_color=ffffff&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hmmza-tariq&layout=compact&theme=dark&title_color=158c54&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-
-</div> -->
-
-<div align="center">
-
-## Skills & Technology Stack
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Mobile_&_Web-158c54?style=for-the-badge&logoColor=white" alt="Mobile & Web"/>
-<br><br>
-<a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="45" height="45"/></a>
-<a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="45" height="45"/></a>
-<a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="45" height="45"/></a>
-<br>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Languages-158c54?style=for-the-badge&logoColor=white" alt="Languages"/>
-<br><br>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/></a>
-<br>
-<a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/></a>
-<a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/></a>
-<a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="45" height="45"/></a>
-</td>
-</tr>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Backend_&_Cloud-158c54?style=for-the-badge&logoColor=white" alt="Backend & Cloud"/>
-<br><br>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45" height="45"/></a>
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/></a>
-<a href="https://www.w3schools.com/sql/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="45" height="45"/></a>
-<br>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/></a>
-<a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="45" height="45"/></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Design_&_3D_Tools-158c54?style=for-the-badge&logoColor=white" alt="Design & Tools"/>
-<br><br>
-<a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="45" height="45"/></a>
-<a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="45" height="45"/></a>
-<a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="45" height="45"/></a>
-<br>
-<a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/></a>
-<a href="https://www.notion.so/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="notion" width="45" height="45"/></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="45" height="45"/></a>
-<a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="45" height="45"/></a>
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<div align="center">
-
-## Let's Connect & Collaborate
-
-<p>
-  <a href="mailto:HamzaTariqWorkMail@gmail.com">
-    <img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/hmmza-tariq--software-engineer-expert" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.fiverr.com/hmmza_tariq" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-158c54?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/>
-  </a>
-  <a href="https://hmmza-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-158c54?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
-<p>
-  <a href="https://instagram.com/dopetraits" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-158c54?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.behance.net/hamzatariq45" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-158c54?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
-  </a>
-  <a href="https://sketchfab.com/Hamza_Tariq/" target="_blank">
-    <img src="https://img.shields.io/badge/Sketchfab-158c54?style=for-the-badge&logo=sketchfab&logoColor=white" alt="Sketchfab"/>
-  </a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=158c54&height=120&section=footer" width="100%"/>
-
-</div>
+[Fiverr](https://www.fiverr.com/hmmza_tariq) | [Behance](https://www.behance.net/hamzatariq45) | [Sketchfab](https://sketchfab.com/Hamza_Tariq/) | [Instagram](https://instagram.com/dopetraits)
