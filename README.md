@@ -1,5 +1,6 @@
 <img src="images/header.svg" alt="Hamza Tariq" width="100%">
 
+<!--![](https://komarev.com/ghpvc/?username=hmmza-tariq&color=blueviolet&style=for-the-badge) -->
 <div align="center">
 
 # Hamza Tariq
