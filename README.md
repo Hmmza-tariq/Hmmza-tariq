@@ -3,8 +3,6 @@
 <!--![](https://komarev.com/ghpvc/?username=hmmza-tariq&color=blueviolet&style=for-the-badge) -->
 <div align="center">
 
-# Hamza Tariq
-
 ### Flutter / Mobile Software Engineer | BLE, IoT & AI
 
 Building production apps with hardware integration and AI features.
@@ -12,9 +10,9 @@ Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enter
 
 <a href="files/Hamza-Tariq-Resume.pdf"><img src="https://img.shields.io/badge/Resume-158c54?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
 <a href="https://hamza.theHexagone.com/"><img src="https://img.shields.io/badge/Portfolio-158c54?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/hamza-tariq-engineer/"><img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/hamza-tariq-engineer/"><img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
 <a href="mailto:Hmmza.work@gmail.com"><img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/hmmza-tariq/projects/"><img src="https://img.shields.io/badge/Projects-158c54?style=for-the-badge&logo=folders&logoColor=white" alt="Projects"/></a>
+<a href="https://github.com/hmmza-tariq/projects/"><img src="https://img.shields.io/badge/Projects-158c54?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
 </div>
 

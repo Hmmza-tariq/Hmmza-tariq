@@ -2,16 +2,6 @@
 
 <style>
 
-svg text {
-  transform-origin: 50% 50%;
-  transform: translate(0%, -40%) rotate(180deg);
-}
-
-svg image {
-  transform-origin: 50% 50%;
-  transform: translate(0%, -40%) rotate(180deg);
-}
-
 svg {
   width:100vw;
   position:fixed;
@@ -126,6 +116,8 @@ g.typingUnderline rect {
     blink 0.5s infinite, 
     underline_move 4s steps(24, end) forwards;
 }
+.name { animation: fadein 1.2s ease-out both; }
+@keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
 </style>
 
 
@@ -176,40 +168,9 @@ g.typingUnderline rect {
 
 <rect class="headerRect" width="70" height="7.3" rx="1" x="20" y="16.8"/>
 
-<path id="nameTyping">
-  <animate attributeName="d" from="m38,-6 h0" to="m38,-6 h100" dur="9.4s" begin="0s" fill="freeze"/>
-</path>
-
-<text font-family="Courier New" font-size=".22em" fill="white"
-      font-weight="bold" letter-spacing="2">
-  <textPath xlink:href="#nameTyping" >
-      HAMZA TARIQ
-  </textPath>
-</text>
-
-<g class="typingUnderline">
-  <rect fill="#FFFFFF" x="69" y="20.5" width="2.5" height="0.4" xlink:href="#underlineTyping">
-      <animate attributeName="visible" from="hidden" to="visible" dur="1s" fill="freeze"/>
-  </rect>
-</g>
-
-<path id="descriptionTyping">
-  <animate attributeName="d" from="m30,-3 h0" to="m30,-3 h100" 
-           dur="5.8s" begin="0s" fill="freeze"/>
-</path>
-
-<text x="64" font-family="Helvetica" font-size=".12em" fill="white"
-     text-anchor="end" alignment-baseline="hanging" font-style="italic" > 
-  <textPath xlink:href="#descriptionTyping" >
-      AI, Mobile &amp; 3D  Developer. 
-  </textPath>
-</text>
-
-<text x="2" y="12" font-family="Helvetica" font-size=".22em" 
-      fill="#AAA" font-weight="bold"> 
-      Hi there!
-</text>
-
+<!-- the whole svg is rotated 180deg by CSS above, so each text is placed at the mirrored point and rotated back to read upright -->
+<text transform="translate(57.5 19.3) rotate(180)" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif"
+      font-size="4.2" font-weight="800" letter-spacing="0.5" fill="#ffffff" class="name">HAMZA TARIQ</text>
 
 </svg>
 
