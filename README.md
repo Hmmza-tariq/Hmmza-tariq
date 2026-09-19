@@ -14,6 +14,7 @@ Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enter
 <a href="https://hamza.theHexagone.com/"><img src="https://img.shields.io/badge/Portfolio-158c54?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/hamza-tariq-engineer/"><img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:Hmmza.work@gmail.com"><img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/hmmza-tariq/projects/"><img src="https://img.shields.io/badge/Projects-158c54?style=for-the-badge&logo=folders&logoColor=white" alt="Projects"/></a>
 
 </div>
 
@@ -54,7 +55,7 @@ Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enter
 | **Room-OS** | iPad controller for 10 Cisco RoomOS meeting rooms across 3 floors, over Cisco xAPI, SSH2, and QSC Q-SYS. |
 | **Water Flow Monitor** | ESP32 + LoRa leak detection with geofencing alerts and automated valve control. |
 
-More projects: [github.com/Hmmza-tariq/Projects](https://github.com/Hmmza-tariq/Projects)
+More projects: [/Hmmza-tariq/Projects](https://github.com/Hmmza-tariq/Projects)
 
 <div align="center">
 
