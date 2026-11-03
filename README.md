@@ -16,17 +16,17 @@ Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enter
 
 </div>
 
-## About
+## Technical Focus
 
 <picture>
   <img align="right" src="images/greet.gif" width="250px">
 </picture>
 
-- Mobile Application Developer at **TopTech EST**
-- Contract Mobile Developer at **Evolvix** (Dubai), building enterprise smart-room control apps
-- Part-time Software Engineer at **RISETech**, working on BLE health-device and subscription apps
-- Founder of [Hexagone](https://theHexagone.com) and co-founder of [GreenEats](https://greeneats.pk)
-- Computer Engineering graduate, NUST | Fiverr Level 2 seller with 50+ projects
+- Cross-platform Flutter apps for Android and iOS
+- BLE health-device integration, IoT, and smart-room control
+- AI features with OCR, barcode scanning, and on-device ML
+- Backend integrations, payments, and subscriptions
+- Automated testing, CI/CD, and mobile release workflows
 
 
 <br clear="right">
@@ -47,7 +47,7 @@ Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enter
 
 | Project | What it is |
 |:--|:--|
-| [**GreenEats**](https://greeneats.pk) | Homemade food delivery platform I co-founded. Live on [Google Play](https://play.google.com/store/apps/details?id=com.hexagone.green_eats) and the [App Store](https://apps.apple.com/us/app/greeneats-homemade-meals/id6478523748). |
+| [**GreenEats**](https://greeneats.pk) | Homemade food delivery platform. Live on [Google Play](https://play.google.com/store/apps/details?id=com.hexagone.green_eats) and the [App Store](https://apps.apple.com/us/app/greeneats-homemade-meals/id6478523748). |
 | [**My NUST**](https://play.google.com/store/apps/details?id=com.hexagone.mynust) | Open-source student app with 10,000+ Google Play downloads. |
 | [**Celiach-IA**](https://apps.apple.com/us/app/celiachia/id6747974481) | AI gluten detection with barcode scanning, OCR, and offline-first storage. |
 | **Room-OS** | iPad controller for 10 Cisco RoomOS meeting rooms across 3 floors, over Cisco xAPI, SSH2, and QSC Q-SYS. |
