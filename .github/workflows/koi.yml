@@ -24,7 +24,7 @@ jobs:
       - uses: yalongwastaken/git-koi@v1
         with:
           login: Hmmza-tariq
-          body: white
+          body: tea
           output-dir: koi
 
       - name: Commit koi
