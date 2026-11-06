@@ -64,6 +64,12 @@ More projects: [/Hmmza-tariq/Projects](https://github.com/Hmmza-tariq/Projects)
 
 </div>
 
+<div align="center">
+
+<img src="koi/koi.gif" width="256" alt="Hamza's koi, generated from GitHub activity">
+
+</div>
+
 ## Elsewhere
 
 [Fiverr](https://www.fiverr.com/hmmza_tariq) | [Behance](https://www.behance.net/hamzatariq45) | [Sketchfab](https://sketchfab.com/Hamza_Tariq/) | [Instagram](https://instagram.com/dopetraits)
