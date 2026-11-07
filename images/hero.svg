@@ -10,11 +10,11 @@
 @media (prefers-color-scheme:dark){.t{fill:#eaf3ee}.u{fill:#86998f}}</style>
 <g clip-path="url(#c)">
 <g class="in">
- <text class="m" x="64" y="104" font-size="13" letter-spacing="5" fill="#158c54">HAMZA TARIQ</text>
+ <text class="m" x="64" y="104" font-size="15" letter-spacing="5" fill="#158c54">HAMZA TARIQ</text>
  <text x="62" y="176" font-size="58" font-weight="700" class="t" letter-spacing="-1.5">Mobile Application</text>
  <text x="62" y="240" font-size="58" font-weight="700" fill="url(#role)" letter-spacing="-1.5">Developer</text>
- <text x="64" y="288" font-size="19" class="u">Flutter · BLE · IoT · AI</text>
+ <text x="64" y="288" font-size="22" class="u">Flutter · BLE · IoT · AI</text>
  <rect x="64" y="318" width="40" height="3" rx="1.5" fill="#158c54"/>
- <text class="m u" x="118" y="323" font-size="12.5">30,000+ users · health · fintech · e-commerce · AV</text>
+ <text class="m u" x="120" y="324" font-size="14.5">30,000+ users · health · fintech · e-commerce · AV</text>
 </g>
 </g></svg>
