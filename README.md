@@ -15,6 +15,8 @@
 
 </div>
 
+<img src="images/stack.svg" alt="Flutter, BLE and IoT, AI and ML, backend, payments, CI and CD" width="100%">
+
 <a href="https://greeneats.pk"><img src="images/work-1.svg" alt="GreenEats" width="100%"></a>
 <a href="https://play.google.com/store/apps/details?id=com.hexagone.mynust"><img src="images/work-2.svg" alt="My NUST" width="100%"></a>
 <a href="https://apps.apple.com/us/app/celiachia/id6747974481"><img src="images/work-3.svg" alt="Celiach-IA" width="100%"></a>
