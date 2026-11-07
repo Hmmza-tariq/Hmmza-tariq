@@ -1,4 +1,4 @@
-<img align="right" src="images/greet.gif" width="33%" alt="Hamza waving hello">
+<img align="right" src="images/avatar-wave.gif" width="33%" alt="Hamza waving hello">
 <img src="images/hero.svg" alt="Hamza Tariq. Mobile Application Developer." width="65%">
 
 <br clear="all">

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img">
-<defs><clipPath id="c"><rect width="640" height="400" rx="14"/></clipPath>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 320" width="640" height="320" role="img">
+<defs><clipPath id="c"><rect width="640" height="320" rx="14"/></clipPath>
 
 <linearGradient id="role" x1="0" x2="1"><stop offset="0" stop-color="#5fd6a0"/><stop offset="1" stop-color="#158c54"/></linearGradient>
 </defs>
@@ -10,11 +10,11 @@
 @media (prefers-color-scheme:dark){.t{fill:#eaf3ee}.u{fill:#86998f}}</style>
 <g clip-path="url(#c)">
 <g class="in">
- <text class="m" x="64" y="104" font-size="15" letter-spacing="5" fill="#158c54">HAMZA TARIQ</text>
- <text x="62" y="176" font-size="58" font-weight="700" class="t" letter-spacing="-1.5">Mobile Application</text>
- <text x="62" y="240" font-size="58" font-weight="700" fill="url(#role)" letter-spacing="-1.5">Developer</text>
- <text x="64" y="288" font-size="22" class="u">Flutter · BLE · IoT · AI</text>
- <rect x="64" y="318" width="40" height="3" rx="1.5" fill="#158c54"/>
- <text class="m u" x="120" y="324" font-size="14.5">30,000+ users · health · fintech · e-commerce · AV</text>
+ <text class="m" x="64" y="58" font-size="17" letter-spacing="5" fill="#158c54">HAMZA TARIQ</text>
+ <text x="62" y="132" font-size="62" font-weight="700" class="t" letter-spacing="-1.5">Mobile Application</text>
+ <text x="62" y="198" font-size="62" font-weight="700" fill="url(#role)" letter-spacing="-1.5">Developer</text>
+ <text x="64" y="246" font-size="25" class="u">Flutter · BLE · IoT · AI</text>
+ <rect x="64" y="278" width="40" height="3" rx="1.5" fill="#158c54"/>
+ <text class="m u" x="122" y="284" font-size="16">30,000+ users · health · fintech · e-commerce · AV</text>
 </g>
 </g></svg>
