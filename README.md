@@ -1,37 +1,30 @@
-<img src="images/header.svg" alt="Hamza Tariq" width="100%">
+<img align="right" src="images/greet.gif" width="33%" alt="Hamza waving hello">
+<img src="images/hero.svg" alt="Hamza Tariq. Mobile Application Developer." width="65%">
 
-<!--![](https://komarev.com/ghpvc/?username=hmmza-tariq&color=blueviolet&style=for-the-badge) -->
+<br clear="all">
+
 <div align="center">
 
-### Flutter / Mobile Software Engineer | BLE, IoT & AI
+<a href="files/Hamza-Tariq-Resume.pdf"><img src="images/badge-resume.svg" alt="Resume" height="28"/></a>
+<a href="https://hamza.theHexagone.com/"><img src="images/badge-portfolio.svg" alt="Portfolio" height="28"/></a>
+<a href="https://www.linkedin.com/in/hamza-tariq-engineer/"><img src="images/badge-linkedin.svg" alt="LinkedIn" height="28"/></a>
+<a href="mailto:Hmmza.work@gmail.com"><img src="images/badge-email.svg" alt="Email" height="28"/></a>
+<a href="https://github.com/hmmza-tariq/projects/"><img src="images/badge-projects.svg" alt="Projects" height="28"/></a>
 
-Building production apps with hardware integration and AI features.
-Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enterprise AV.
-
-<a href="files/Hamza-Tariq-Resume.pdf"><img src="https://img.shields.io/badge/Resume-158c54?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume"/></a>
-<a href="https://hamza.theHexagone.com/"><img src="https://img.shields.io/badge/Portfolio-158c54?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
-<a href="https://www.linkedin.com/in/hamza-tariq-engineer/"><img src="https://img.shields.io/badge/LinkedIn-158c54?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMTEyLjA2MyAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
-<a href="mailto:Hmmza.work@gmail.com"><img src="https://img.shields.io/badge/Email-158c54?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://github.com/hmmza-tariq/projects/"><img src="https://img.shields.io/badge/Projects-158c54?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
+<sub>**Flutter** · Dart · Kotlin · **BLE** · ESP32 · MQTT · Firebase · Supabase · **TFLite** · ML Kit · Stripe · RevenueCat · GitHub Actions · fastlane</sub>
 
 </div>
 
-## Technical Focus
+<img src="images/stack.svg" alt="Flutter, BLE and IoT, AI and ML, backend, payments, CI and CD" width="100%">
 
-<picture>
-  <img align="right" src="images/greet.gif" width="250px">
-</picture>
+<a href="https://greeneats.pk"><img src="images/work-1.svg" alt="GreenEats" width="100%"></a>
+<a href="https://play.google.com/store/apps/details?id=com.hexagone.mynust"><img src="images/work-2.svg" alt="My NUST" width="100%"></a>
+<a href="https://apps.apple.com/us/app/celiachia/id6747974481"><img src="images/work-3.svg" alt="Celiach-IA" width="100%"></a>
+<img src="images/work-4.svg" alt="Room-OS" width="100%">
+<img src="images/work-5.svg" alt="Water Flow Monitor" width="100%">
 
-- Cross-platform Flutter apps for Android and iOS
-- BLE health-device integration, IoT, and smart-room control
-- AI features with OCR, barcode scanning, and on-device ML
-- Backend integrations, payments, and subscriptions
-- Automated testing, CI/CD, and mobile release workflows
-
-
-<br clear="right">
-
-## Tech Stack
+<details>
+<summary><b>Full stack</b></summary>
 
 | | |
 |:--|:--|
@@ -43,17 +36,7 @@ Apps serving **30,000+ users** across healthtech, fintech, e-commerce, and enter
 | **Testing & DevOps** | <img src="https://img.shields.io/badge/GitHub_Actions-158c54?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/fastlane-158c54?style=flat-square&logo=fastlane&logoColor=white" alt="fastlane"/> <img src="https://img.shields.io/badge/Xcode_Cloud-158c54?style=flat-square&logo=xcode&logoColor=white" alt="Xcode Cloud"/> <img src="https://img.shields.io/badge/Patrol-158c54?style=flat-square" alt="Patrol"/> <img src="https://img.shields.io/badge/Git-158c54?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/Jira-158c54?style=flat-square&logo=jira&logoColor=white" alt="Jira"/> <img src="https://img.shields.io/badge/Postman-158c54?style=flat-square&logo=postman&logoColor=white" alt="Postman"/> |
 | **Languages** | <img src="https://img.shields.io/badge/Dart-158c54?style=flat-square&logo=dart&logoColor=white" alt="Dart"/> <img src="https://img.shields.io/badge/Python-158c54?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/TypeScript-158c54?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/JavaScript-158c54?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/> <img src="https://img.shields.io/badge/Java-158c54?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/SQL-158c54?style=flat-square" alt="SQL"/> |
 
-## Selected Work
-
-| Project | What it is |
-|:--|:--|
-| [**GreenEats**](https://greeneats.pk) | Homemade food delivery platform. Live on [Google Play](https://play.google.com/store/apps/details?id=com.hexagone.green_eats) and the [App Store](https://apps.apple.com/us/app/greeneats-homemade-meals/id6478523748). |
-| [**My NUST**](https://play.google.com/store/apps/details?id=com.hexagone.mynust) | Open-source student app with 10,000+ Google Play downloads. |
-| [**Celiach-IA**](https://apps.apple.com/us/app/celiachia/id6747974481) | AI gluten detection with barcode scanning, OCR, and offline-first storage. |
-| **Room-OS** | iPad controller for 10 Cisco RoomOS meeting rooms across 3 floors, over Cisco xAPI, SSH2, and QSC Q-SYS. |
-| **Water Flow Monitor** | ESP32 + LoRa leak detection with geofencing alerts and automated valve control. |
-
-More projects: [/Hmmza-tariq/Projects](https://github.com/Hmmza-tariq/Projects)
+</details>
 
 <div align="center">
 
@@ -64,6 +47,8 @@ More projects: [/Hmmza-tariq/Projects](https://github.com/Hmmza-tariq/Projects)
 
 </div>
 
-## Elsewhere
+<div align="center">
 
 [Fiverr](https://www.fiverr.com/hmmza_tariq) | [Behance](https://www.behance.net/hamzatariq45) | [Sketchfab](https://sketchfab.com/Hamza_Tariq/) | [Instagram](https://instagram.com/dopetraits)
+
+</div>

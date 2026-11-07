@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400" role="img">
+<defs><clipPath id="c"><rect width="640" height="400" rx="14"/></clipPath>
+
+<linearGradient id="role" x1="0" x2="1"><stop offset="0" stop-color="#5fd6a0"/><stop offset="1" stop-color="#158c54"/></linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+.in{animation:in 1.2s ease-out both}@keyframes in{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.t{fill:#1f2a25}.u{fill:#5b6b63}
+@media (prefers-color-scheme:dark){.t{fill:#eaf3ee}.u{fill:#86998f}}</style>
+<g clip-path="url(#c)">
+<g class="in">
+ <text class="m" x="64" y="104" font-size="13" letter-spacing="5" fill="#158c54">HAMZA TARIQ</text>
+ <text x="62" y="176" font-size="58" font-weight="700" class="t" letter-spacing="-1.5">Mobile Application</text>
+ <text x="62" y="240" font-size="58" font-weight="700" fill="url(#role)" letter-spacing="-1.5">Developer</text>
+ <text x="64" y="288" font-size="19" class="u">Flutter · BLE · IoT · AI</text>
+ <rect x="64" y="318" width="40" height="3" rx="1.5" fill="#158c54"/>
+ <text class="m u" x="118" y="323" font-size="12.5">30,000+ users · health · fintech · e-commerce · AV</text>
+</g>
+</g></svg>
